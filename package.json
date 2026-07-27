@@ -20,7 +20,7 @@
     "material-design-icons": "^3.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.6",
-    "postcss-cli": "^7.1.2"
+    "autoprefixer": "^10.5.4",
+    "postcss-cli": "^11.0.1"
   }
 }
